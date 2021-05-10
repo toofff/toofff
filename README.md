@@ -23,6 +23,14 @@ I'm a French 🇫🇷 Web developer, currently working at the cooperative [Les-T
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.3](https://github.com/api-platform/client-generator/releases/tag/v0.7.3), 4 weeks ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) ([v0.2.0](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin/releases/tag/v0.2.0), 6 months ago) - Sell and deliver securely during the COVID-19 pandemic!
 
+#### 📓 Gists I wrote
+
+- [Git Configuration](https://gist.github.com/b0eda19edbbdd90e2d3214781b5eda80) (1 week ago)
+- [How to create a login experience from the admin with API Platform 2.6](https://gist.github.com/73460d081c11e84c5bf02a11bd09eb90) (2 months ago)
+- [Install MySQL 5.5.xx on Ubuntu](https://gist.github.com/20340afba727ad3fc93d24b0e3f5f74e) (5 months ago)
+- [Deploying NGINX Plus as an API Gateway, Part 1](https://gist.github.com/1bc54921c603db86b0aa3d3f9e6e23f3) (7 months ago)
+- [Deploying NGINX Plus as an API Gateway, Part 1](https://gist.github.com/7cd4cb9c98045d3765787d7a783801a4) (7 months ago)
+
 ### 📫 How to reach me
 - Website: http://toofff.com
 - Twitter: https://twitter.com/yanoucrea
@@ -45,7 +53,7 @@ I'm a French 🇫🇷 Web developer, currently working at the cooperative [Les-T
 
 **Quality**
 
-<img src="https://avatars.githubusercontent.com/u/16435710" alt="PHPStan" width="50"/> <img src="https://raw.githubusercontent.com/FriendsOfPHP/PHP-CS-Fixer/2.18/logo.png" alt="PHPCsFixer" height="50"/> <img src="https://avatars.githubusercontent.com/u/6019716" alt="EsLint" width="50"/>
+<img src="https://avatars.githubusercontent.com/u/16435710" alt="PHPStan" width="50"/> <img src="https://raw.githubusercontent.com/FriendsOfPHP/PHP-CS-Fixer/3.0/logo.png" alt="PHPCsFixer" height="50"/> <img src="https://avatars.githubusercontent.com/u/6019716" alt="EsLint" width="50"/>
 
 **Devops**
 
