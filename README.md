@@ -3,31 +3,31 @@ I'm a French 🇫🇷 Web developer, currently working at the cooperative [Les-T
 
 ### 👷 Check out what I'm currently working on
 
-- [toofff/blog-integration](https://github.com/toofff/blog-integration) -  (1 day ago)
-- [toofff/.github](https://github.com/toofff/.github) -  (3 days ago)
+- [toofff/blog-integration](https://github.com/toofff/blog-integration) -  (1 week ago)
+- [toofff/.github](https://github.com/toofff/.github) -  (1 week ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of conferences&#39;s date in order to help conferences organizers (1 month ago)
 - [toofff/bolt-docker](https://github.com/toofff/bolt-docker) -  (3 months ago)
 - [Sylius/PayPalPlugin](https://github.com/Sylius/PayPalPlugin) - Official integration with PayPal Commerce Platform (3 months ago)
-- [monsieurbiz/SyliusRichEditorPlugin](https://github.com/monsieurbiz/SyliusRichEditorPlugin) - This plugin add a rich editor on fields to be able to drag and drop elements and edit it. (3 months ago)
+- [monsieurbiz/SyliusRichEditorPlugin](https://github.com/monsieurbiz/SyliusRichEditorPlugin) - This plugin add a rich editor on fields to be able to drag and drop elements and edit it. (4 months ago)
 - [bolt/project](https://github.com/bolt/project) - 🚀 Repo to `composer create project` a Bolt Four project. (6 months ago)
 - [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic! (7 months ago)
 - [bolt/core](https://github.com/bolt/core) - 🧿 Bolt 4 core (7 months ago)
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (7 months ago)
+- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (8 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [bolt/project](https://github.com/bolt/project) ([1.3.28](https://github.com/bolt/project/releases/tag/1.3.28), 4 days ago) - 🚀 Repo to `composer create project` a Bolt Four project.
-- [bolt/core](https://github.com/bolt/core) ([5.0.0-beta.6.1](https://github.com/bolt/core/releases/tag/5.0.0-beta.6.1), 6 days ago) - 🧿 Bolt 4 core
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.0-ALPHA.1](https://github.com/Sylius/Sylius/releases/tag/v1.10.0-ALPHA.1), 6 days ago) - Open Source eCommerce Platform on Symfony
-- [monsieurbiz/SyliusRichEditorPlugin](https://github.com/monsieurbiz/SyliusRichEditorPlugin) ([v2.0.0](https://github.com/monsieurbiz/SyliusRichEditorPlugin/releases/tag/v2.0.0), 1 week ago) - This plugin add a rich editor on fields to be able to drag and drop elements and edit it.
-- [Sylius/PayPalPlugin](https://github.com/Sylius/PayPalPlugin) ([v1.2.1](https://github.com/Sylius/PayPalPlugin/releases/tag/v1.2.1), 2 weeks ago) - Official integration with PayPal Commerce Platform
+- [bolt/project](https://github.com/bolt/project) ([1.3.28](https://github.com/bolt/project/releases/tag/1.3.28), 1 week ago) - 🚀 Repo to `composer create project` a Bolt Four project.
+- [bolt/core](https://github.com/bolt/core) ([5.0.0-beta.6.1](https://github.com/bolt/core/releases/tag/5.0.0-beta.6.1), 1 week ago) - 🧿 Bolt 4 core
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.10.0-ALPHA.1](https://github.com/Sylius/Sylius/releases/tag/v1.10.0-ALPHA.1), 1 week ago) - Open Source eCommerce Platform on Symfony
+- [monsieurbiz/SyliusRichEditorPlugin](https://github.com/monsieurbiz/SyliusRichEditorPlugin) ([v2.0.0](https://github.com/monsieurbiz/SyliusRichEditorPlugin/releases/tag/v2.0.0), 2 weeks ago) - This plugin add a rich editor on fields to be able to drag and drop elements and edit it.
+- [Sylius/PayPalPlugin](https://github.com/Sylius/PayPalPlugin) ([v1.2.1](https://github.com/Sylius/PayPalPlugin/releases/tag/v1.2.1), 3 weeks ago) - Official integration with PayPal Commerce Platform
 - [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.3](https://github.com/api-platform/client-generator/releases/tag/v0.7.3), 1 month ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) ([v0.2.0](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin/releases/tag/v0.2.0), 7 months ago) - Sell and deliver securely during the COVID-19 pandemic!
 
 #### 📓 Gists I wrote
 
-- [Git Configuration](https://gist.github.com/b0eda19edbbdd90e2d3214781b5eda80) (2 weeks ago)
-- [How to create a login experience from the admin with API Platform 2.6](https://gist.github.com/73460d081c11e84c5bf02a11bd09eb90) (2 months ago)
+- [Git Configuration](https://gist.github.com/b0eda19edbbdd90e2d3214781b5eda80) (3 weeks ago)
+- [How to create a login experience from the admin with API Platform 2.6](https://gist.github.com/73460d081c11e84c5bf02a11bd09eb90) (3 months ago)
 - [Install MySQL 5.5.xx on Ubuntu](https://gist.github.com/20340afba727ad3fc93d24b0e3f5f74e) (5 months ago)
 - [Deploying NGINX Plus as an API Gateway, Part 1](https://gist.github.com/1bc54921c603db86b0aa3d3f9e6e23f3) (7 months ago)
 - [Deploying NGINX Plus as an API Gateway, Part 1](https://gist.github.com/7cd4cb9c98045d3765787d7a783801a4) (7 months ago)
