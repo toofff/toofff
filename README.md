@@ -1,27 +1,6 @@
 ## Hi 👋, I'm Yann
-I'm a French 🇫🇷 Web developer, currently working at the cooperative [Les-Tilleuls](https://les-tilleuls.coop).
 
-### 👷 Check out what I'm currently working on
-
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of conferences&#39;s date in order to help conferences organizers (3 weeks ago)
-- [toofff/bolt-docker](https://github.com/toofff/bolt-docker) -  (3 months ago)
-- [Sylius/PayPalPlugin](https://github.com/Sylius/PayPalPlugin) - Official integration with PayPal Commerce Platform (3 months ago)
-- [monsieurbiz/SyliusRichEditorPlugin](https://github.com/monsieurbiz/SyliusRichEditorPlugin) - This plugin add a rich editor on fields to be able to drag and drop elements and edit it. (3 months ago)
-- [bolt/project](https://github.com/bolt/project) - 🚀 Repo to `composer create project` a Bolt Four project. (6 months ago)
-- [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) - Sell and deliver securely during the COVID-19 pandemic! (6 months ago)
-- [bolt/core](https://github.com/bolt/core) - 🧿 Bolt 4 core (7 months ago)
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native. (7 months ago)
-- [SyliusCrafts/BootstrapTheme](https://github.com/SyliusCrafts/BootstrapTheme) - Sylius Bootstrap theme with build process based on Webpack Encore (10 months ago)
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony (10 months ago)
-
-### 🔭 Latest releases I've contributed to
-
-- [bolt/project](https://github.com/bolt/project) ([2.0.0-beta.6.1](https://github.com/bolt/project/releases/tag/2.0.0-beta.6.1), 6 days ago) - 🚀 Repo to `composer create project` a Bolt Four project.
-- [bolt/core](https://github.com/bolt/core) ([5.0.0-beta.6](https://github.com/bolt/core/releases/tag/5.0.0-beta.6), 1 week ago) - 🧿 Bolt 4 core
-- [Sylius/PayPalPlugin](https://github.com/Sylius/PayPalPlugin) ([v1.2.1](https://github.com/Sylius/PayPalPlugin/releases/tag/v1.2.1), 1 week ago) - Official integration with PayPal Commerce Platform
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v1.9.3](https://github.com/Sylius/Sylius/releases/tag/v1.9.3), 2 weeks ago) - Open Source eCommerce Platform on Symfony
-- [api-platform/client-generator](https://github.com/api-platform/client-generator) ([v0.7.3](https://github.com/api-platform/client-generator/releases/tag/v0.7.3), 4 weeks ago) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin) ([v0.2.0](https://github.com/coopTilleuls/CoopTilleulsSyliusClickNCollectPlugin/releases/tag/v0.2.0), 6 months ago) - Sell and deliver securely during the COVID-19 pandemic!
+I'm a French 🇫🇷 Web developer, currently working at [Coveo](https://www.coveo.com/fr).
 
 ### 📫 How to reach me
 - Website: http://toofff.com

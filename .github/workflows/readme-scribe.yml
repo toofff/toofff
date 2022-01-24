@@ -1,27 +1,33 @@
 name: Update README
 
 on:
-  push:
+    push:
+        branches: [main]
 
 jobs:
-  markscribe:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
-
-      - uses: muesli/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
-
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          commit_message: Update generated README
-          branch: main
-          commit_user_name: ReadMe Robot 🤖
-          commit_user_email: actions@github.com
-          commit_author: ReadeMe Robot 🤖 <actions@github.com>
+    markscribe:
+        runs-on: ubuntu-latest
+        environment: production
+        steps:
+            -
+                name: 'Checkout'
+                uses: 'actions/checkout@v2'
+            -
+                name: 'Generate new Readme file'
+                uses: muesli/readme-scribe@master
+                env:
+                    GITHUB_TOKEN: ${{ secrets.TOOFFF_GITHUB_TOKEN }}
+                with:
+                    template: "templates/README.md.tpl"
+                    writeTo: "README.md"
+            -
+                name: 'Commit new Readme file'
+                uses: stefanzweifel/git-auto-commit-action@v4
+                env:
+                    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                with:
+                    commit_message: Update generated README
+                    branch: main
+                    commit_user_name: ReadMe Robot 🤖
+                    commit_user_email: actions@github.com
+                    commit_author: ReadeMe Robot 🤖 <actions@github.com>
