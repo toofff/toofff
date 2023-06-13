@@ -3,6 +3,8 @@ name: Update README
 on:
     push:
         branches: [main]
+    schedule:
+        -   cron: "0 0 * * 1"
 
 jobs:
     markscribe:
@@ -11,7 +13,7 @@ jobs:
         steps:
             -
                 name: 'Checkout'
-                uses: 'actions/checkout@v2'
+                uses: 'actions/checkout@v3.5.3'
             -
                 name: 'Generate new Readme file'
                 uses: muesli/readme-scribe@master
@@ -22,7 +24,7 @@ jobs:
                     writeTo: "README.md"
             -
                 name: 'Commit new Readme file'
-                uses: stefanzweifel/git-auto-commit-action@v4
+                uses: stefanzweifel/git-auto-commit-action@v4.16.0
                 env:
                     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                 with:

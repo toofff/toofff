@@ -1,9 +1,8 @@
 ## Hi 👋, I'm Yann
 
-I'm a French 🇫🇷 senior developer, currently working at [Coveo](https://www.coveo.com).
-Right now I'm having fun with [ReactJs](https://reactjs.org/), [NextJs](https://nextjs.org/), [Symfony](https://symfony.com/), [Sylius](https://sylius.com/), [Bulma](https://bulma.io/), [Docker](https://www.docker.com/) and soon with [Remix](https://remix.run/).
+I'm a French 🇫🇷 staff developer, currently working at [Coveo](https://www.coveo.com).
+Right now I'm having fun with [ReactJs](https://reactjs.org/), [NextJs](https://nextjs.org/), [Mantine](https://mantine.dev/), [Symfony](https://symfony.com/), [Sylius](https://sylius.com/), [Bulma](https://bulma.io/), [Docker](https://www.docker.com/)...
 
-<!--
 ### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -13,12 +12,6 @@ Right now I'm having fun with [ReactJs](https://reactjs.org/), [NextJs](https://
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
-
-#### 📓 Gists I wrote
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
--->
 
 ### 📫 How to reach me
 
@@ -30,4 +23,6 @@ Right now I'm having fun with [ReactJs](https://reactjs.org/), [NextJs](https://
 
 ### 📈 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=toofff&show_icons=true" alt="Toofff stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toofff&theme=transparent&hide_progress=true" alt="Toofff's langs statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=toofff&show_icons=true&theme=transparent" alt="Toofff's generic statistics" />
