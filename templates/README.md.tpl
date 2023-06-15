@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Yann
 
 I'm a French 🇫🇷 staff developer, currently working at [Coveo](https://www.coveo.com).
-Right now I'm having fun with [ReactJs](https://reactjs.org/), [NextJs](https://nextjs.org/), [Mantine](https://mantine.dev/), [Symfony](https://symfony.com/), [Sylius](https://sylius.com/), [Bulma](https://bulma.io/), [Docker](https://www.docker.com/)...
+Right now, I'm having fun with [ReactJs](https://reactjs.org/), [NextJs](https://nextjs.org/), [Mantine](https://mantine.dev/), [Symfony](https://symfony.com/), [API Platform](https://api-platform.com/), [Sylius](https://sylius.com/), [Bulma](https://bulma.io/), [Docker](https://www.docker.com/)...
 
 ### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
