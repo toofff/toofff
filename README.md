@@ -10,9 +10,9 @@ Right now, I'm having fun with [ReactJs](https://reactjs.org/), [NextJs](https:/
 
 ### 🔭 Latest releases I've contributed to
 
-- [coveo/platform-client](https://github.com/coveo/platform-client) ([v44.11.0](https://github.com/coveo/platform-client/releases/tag/v44.11.0), 4 days ago) - Official Coveo Cloud APIs JavaScript Client
-- [coveo/plasma](https://github.com/coveo/plasma) ([v52.11.1](https://github.com/coveo/plasma/releases/tag/v52.11.1), 5 days ago) - Plasma components implemented with React!
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) ([6.0.15](https://github.com/mantinedev/mantine/releases/tag/6.0.15), 6 days ago) - A fully featured React components library
+- [coveo/platform-client](https://github.com/coveo/platform-client) ([v44.11.2](https://github.com/coveo/platform-client/releases/tag/v44.11.2), 5 days ago) - Official Coveo Cloud APIs JavaScript Client
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) ([6.0.16](https://github.com/mantinedev/mantine/releases/tag/6.0.16), 6 days ago) - A fully featured React components library
+- [coveo/plasma](https://github.com/coveo/plasma) ([v52.11.1](https://github.com/coveo/plasma/releases/tag/v52.11.1), 1 week ago) - Plasma components implemented with React!
 
 ### 📫 How to reach me
 
