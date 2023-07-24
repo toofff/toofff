@@ -6,13 +6,13 @@ Right now, I'm having fun with [ReactJs](https://reactjs.org/), [NextJs](https:/
 ### 👷 Check out what I'm currently working on
 
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (2 months ago)
-- [toofff/dragula2](https://github.com/toofff/dragula2) - :ok_hand: Drag and drop so simple it hurts (5 months ago)
+- [toofff/dragula2](https://github.com/toofff/dragula2) - :ok_hand: Drag and drop so simple it hurts (6 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [coveo/platform-client](https://github.com/coveo/platform-client) ([v44.11.2](https://github.com/coveo/platform-client/releases/tag/v44.11.2), 1 week ago) - Official Coveo Cloud APIs JavaScript Client
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) ([6.0.16](https://github.com/mantinedev/mantine/releases/tag/6.0.16), 1 week ago) - A fully featured React components library
-- [coveo/plasma](https://github.com/coveo/plasma) ([v52.11.1](https://github.com/coveo/plasma/releases/tag/v52.11.1), 2 weeks ago) - Plasma components implemented with React!
+- [coveo/platform-client](https://github.com/coveo/platform-client) ([v45.0.0](https://github.com/coveo/platform-client/releases/tag/v45.0.0), 5 days ago) - Official Coveo Cloud APIs JavaScript Client
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) ([6.0.17](https://github.com/mantinedev/mantine/releases/tag/6.0.17), 6 days ago) - A fully featured React components library
+- [coveo/plasma](https://github.com/coveo/plasma) ([v52.11.1](https://github.com/coveo/plasma/releases/tag/v52.11.1), 3 weeks ago) - Plasma components implemented with React!
 
 ### 📫 How to reach me
 
