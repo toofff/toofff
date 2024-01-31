@@ -25,5 +25,3 @@ Right now, I'm having fun with [ReactJs](https://reactjs.org/), [NextJs](https:/
 ### 📈 Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toofff&theme=transparent&hide_progress=true" alt="Toofff's langs statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=toofff&show_icons=true&theme=transparent" alt="Toofff's generic statistics" />
